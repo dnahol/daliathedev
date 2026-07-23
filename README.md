@@ -14,7 +14,7 @@
 ## Future draft: Static home page hosted on gh pages, link within same domain to Fullstack page hosted on free Google server
 
 	Use Node Express app with React
-  Will host several project to come, including:
+  Will host several projects to come, including:
 
 ### Algorithms and Data Structures Tutorials, Animations, and Games
 ### Retro 90s DOS and PC game recreations
